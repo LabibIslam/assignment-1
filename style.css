@@ -99,3 +99,11 @@ body {
   background-position-x: 110px;
   background-position-y: 50px;
 }
+.forth-back-develop {
+  background-image: url(images/shape-1.png);
+  background-repeat: no-repeat;
+  background-size: 12%;
+  background-position-y: 325px;
+  background-position-x: 1600px;
+  margin-bottom: 0;
+}
