@@ -103,7 +103,37 @@ body {
   background-image: url(images/shape-1.png);
   background-repeat: no-repeat;
   background-size: 12%;
-  background-position-y: 325px;
-  background-position-x: 1600px;
+  background-position-y: 375px;
+  background-position-x: 1575px;
+  padding-bottom: 100px;
   margin-bottom: 0;
+}
+.fifth-section-heading {
+  font-family: "Manrope", sans-serif;
+  font-weight: bold;
+  text-align: center;
+  font-size: 50px;
+}
+#fifth-span {
+  color: orange;
+}
+.fifth-section-image {
+  width: 50%;
+  padding-right: 250px;
+}
+.fifth-section-image img {
+  width: 40%;
+  padding-left: 40px;
+}
+#corona {
+  color: orange;
+}
+.fifth-section-inside {
+  background-image: url(images/shape-3.png);
+  background-repeat: no-repeat;
+  background-size: 8%;
+  margin-top: 0%;
+  padding-top: 100px;
+  background-position-x: 175px;
+  background-position-y: 50px;
 }
