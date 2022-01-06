@@ -137,3 +137,18 @@ body {
   background-position-x: 175px;
   background-position-y: 50px;
 }
+.footer {
+  text-align: center;
+  background-color: rgb(13, 13, 49);
+}
+.footer-h1 {
+  font-family: "Dancing Script", cursive;
+  font-size: 40px;
+  color: skyblue;
+}
+#footer-span {
+  color: tomato;
+}
+footer p {
+  color: white;
+}
