@@ -50,3 +50,28 @@ body {
 #second-span {
   color: orange;
 }
+.three-elements {
+  padding-right: 200px;
+}
+.three-elements img {
+  width: 40%;
+}
+.mission {
+  background-color: lightblue;
+  border: 7px solid lightblue;
+  border-radius: 10px;
+  margin-right: 10px;
+}
+.vission {
+  background-color: lightyellow;
+  border: 7px solid lightyellow;
+  border-radius: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+.goals {
+  background-color: lightpink;
+  border: 7px solid lightpink;
+  border-radius: 10px;
+  margin-left: 10px;
+}
