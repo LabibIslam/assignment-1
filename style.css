@@ -3,8 +3,13 @@ body {
 }
 .text-style {
   font-family: "Abril Fatface", cursive;
-  font-size: 60px;
+  font-size: 40px;
   color: rgb(71, 68, 68);
+  line-height: 80%;
+  padding-left: 15px;
+  border-left: 4px solid;
+  border-color: orangered;
+  border-image-slice: 1;
 }
 #mission {
   color: orange;
@@ -18,5 +23,19 @@ body {
   padding-left: 100px;
 }
 .half-width img {
-  width: 75%;
+  width: 60%;
+}
+.link-button {
+  text-decoration: none;
+  background-image: linear-gradient(tomato, tomato);
+  padding: 10px 40px;
+  color: white;
+  font-weight: 600;
+  border-radius: 5px;
+}
+#scroll {
+  margin-top: 50px;
+}
+#passage-1 {
+  margin-bottom: 40px;
 }
