@@ -3,4 +3,20 @@ body {
 }
 .text-style {
   font-family: "Abril Fatface", cursive;
+  font-size: 60px;
+  color: rgb(71, 68, 68);
+}
+#mission {
+  color: orange;
+}
+.flexible-container {
+  display: flex;
+  margin-bottom: 200px;
+}
+.half-width {
+  width: 50%;
+  padding-left: 100px;
+}
+.half-width img {
+  width: 75%;
 }
