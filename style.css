@@ -1,6 +1,7 @@
 body {
   font-family: "Ubuntu", sans-serif;
   margin: 0;
+  padding-top: 100px;
 }
 .text-style {
   font-family: "Abril Fatface", cursive;
@@ -17,12 +18,11 @@ body {
 }
 .flexible-container {
   display: flex;
-  margin-bottom: 200px;
+  margin-bottom: 100px;
+  padding-left: 200px;
 }
 .half-width {
   width: 50%;
-  padding-left: 200px;
-  padding-top: 100px;
 }
 .half-width img {
   width: 50%;
@@ -40,4 +40,13 @@ body {
 }
 #passage-1 {
   margin-bottom: 40px;
+}
+.second-section-heading {
+  font-family: "Manrope", sans-serif;
+  color: rgb(5, 5, 63);
+  font-weight: bold;
+  text-align: center;
+}
+#second-span {
+  color: orange;
 }
